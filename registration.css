@@ -1,0 +1,34 @@
+form{
+    background-color: #b3d4fc;
+    width: 70%;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: auto;
+    padding: 20px;
+    background-color: blanchedalmond;
+
+}
+#first{
+    display: flex;
+    margin-bottom:10px;
+    align-items: center;
+}
+
+label{
+    width:25%;
+    margin-right:5px;
+}
+
+
+input[type=text],input[type=email],input[type=password],textarea{
+    width:60%;
+    height:40px;
+    color: beige;
+}
+fieldset{
+    border:3px solid cornsilk;
+}
+input[type=text],input[type=email],input[type=password]:focus{
+    background-color: #56e8e1;
+}

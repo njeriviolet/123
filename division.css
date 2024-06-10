@@ -1,0 +1,40 @@
+#main{
+    background-color: blueviolet;
+    color: white;
+    margin:50px;
+padding: 30px;
+    font-style: italic;
+}
+
+#web{
+    text-align: center;
+    color: #b3103c;
+    background-color: cyan;
+    line-height: 45px;
+    display: flex;
+
+}
+.heading{
+    background-color: #b3d4fc;
+}
+.division2{
+    background-color: chocolate;
+    margin: 50px;
+    padding: 30px;
+
+}
+.mycourses{
+    display: flex;
+}
+#fullstack{
+    background-color: cyan;
+    color: cornflowerblue;
+}
+#cybersec{
+    background-color: deeppink;
+    color: white;
+}
+#datascience{
+    background-color: aquamarine;
+    color: white;
+}

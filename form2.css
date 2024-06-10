@@ -1,0 +1,13 @@
+fieldset{
+    border: 3px solid steelblue;
+}
+input[type=text],input[type=url],input[type=email],textarea{
+    width: 100%;
+    height:20px;
+}
+button{
+    background-color: blue;
+    width:60px;
+    height: 40px;
+    color: white;
+}
